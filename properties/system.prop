@@ -1,6 +1,10 @@
 # CNE
 persist.vendor.cne.feature=1
 
+# Camera
+ro.miui.notch=1
+ro.product.mod_device=mondrian
+
 # Media
 media.stagefright.thumbnail.prefer_hw_codecs=true
 
